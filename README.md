@@ -7,3 +7,8 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+1. Untuk run eslint :
+npm run eslint
+2. Untuk run tdd :
+npm test
